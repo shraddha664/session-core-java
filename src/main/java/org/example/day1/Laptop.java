@@ -1,19 +1,24 @@
 package org.example.day1;
 
 public class Laptop {
-//    States
+//States
 
-//    Brand
-//    OS
-//    Display
-//    SSD
-//    RAM
-//    Color
-//    Connectivity
-//    Threads
-//    Graphics
-//    USP port
-//    Processor
+// Brand Name
+// OS
+// Display
+// SSD Size
+// RAM Size
+// Color
+// Connectivity
+// Graphics Card Name
+// Processor
 
-//    Behavior
+//Behavior
+
+// buy
+// add to cart
+// increase quantity
+// see reviews
+
+
 }
