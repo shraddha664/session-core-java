@@ -1,4 +1,4 @@
-package org.example.day1.encapsulation_demo;
+package org.example.encapsulation_demo;
 
 public class AccountHolders {
     public static void main(String[] args) {

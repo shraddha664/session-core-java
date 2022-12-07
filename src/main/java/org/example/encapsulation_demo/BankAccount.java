@@ -1,8 +1,8 @@
-package org.example.day1.encapsulation_demo;
+package org.example.encapsulation_demo;
 
 public class BankAccount {
     private double accountBalance;
-    private String BANK_NAME="RBB";
+    private final String BANK_NAME="RBB";
     private String accountNumber;
     private String socilaSecurityNumber;
 
